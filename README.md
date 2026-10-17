@@ -31,7 +31,7 @@ Importar skills manualmente — clonar repositório, localizar pastas, copiar ar
 Clone o repositório e crie um ambiente virtual:
 
 ```bash
-git clone https://github.com/rodrigo-devv/autoskills.git
+git clone https://github.com/s3xz/autoskills.git
 cd autoskills
 python -m venv .venv
 ```
